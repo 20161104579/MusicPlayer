@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4F8EBD4C21E1DADE00FF1A8F /* Happy_(电影《神偷奶爸2》主题曲)-Pharrell_Williams.flac */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Happy_(电影《神偷奶爸2》主题曲)-Pharrell_Williams.flac"; sourceTree = "<group>"; };
 		4FD59AE221E1B9C900B7AE82 /* MusicPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FD59AE521E1B9C900B7AE82 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4FD59AE721E1B9C900B7AE82 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -74,6 +75,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4F8EBD4921E1DA9400FF1A8F /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				4F8EBD4C21E1DADE00FF1A8F /* Happy_(电影《神偷奶爸2》主题曲)-Pharrell_Williams.flac */,
+			);
+			name = "New Group";
+			sourceTree = "<group>";
+		};
 		4FD59AD921E1B9C800B7AE82 = {
 			isa = PBXGroup;
 			children = (
@@ -97,6 +106,7 @@
 		4FD59AE421E1B9C900B7AE82 /* MusicPlayer */ = {
 			isa = PBXGroup;
 			children = (
+				4F8EBD4921E1DA9400FF1A8F /* New Group */,
 				4FD59AE521E1B9C900B7AE82 /* AppDelegate.swift */,
 				4FD59AE721E1B9C900B7AE82 /* ViewController.swift */,
 				4FD59AE921E1B9C900B7AE82 /* Main.storyboard */,
